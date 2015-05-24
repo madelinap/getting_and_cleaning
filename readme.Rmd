@@ -16,4 +16,5 @@ The R code attached run_analysis.R performs these actions:
 
 5-From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+In the output file, for each subject and activity, it is provided the mean of triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration. 
 
